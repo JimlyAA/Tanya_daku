@@ -26,3 +26,7 @@ Aplikasi mobile sederhana berbasis Flutter. Pengguna dapat menekan bola untuk me
 ```bash
 flutter pub get
 flutter run
+```
+
+## Screenshot
+![Screenshot_20250623_205338](https://github.com/user-attachments/assets/49fc8e76-f0b4-4c95-944b-d7eaae4bc4e0)
