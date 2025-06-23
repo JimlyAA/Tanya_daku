@@ -9,7 +9,7 @@ Aplikasi mobile sederhana berbasis Flutter. Pengguna dapat menekan bola untuk me
 - Gambar bola berubah secara acak saat ditekan
 - Menggunakan `Image.asset` untuk menampilkan gambar lokal
 
-## 🛠 Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 
 - Flutter
 - Bahasa Dart
@@ -17,7 +17,7 @@ Aplikasi mobile sederhana berbasis Flutter. Pengguna dapat menekan bola untuk me
 - Random number generator dari `dart:math`
 
 
-## ▶️ Cara Menjalankan
+##  Cara Menjalankan
 
 1. Pastikan Flutter sudah terpasang.
 2. Clone repositori ini.
