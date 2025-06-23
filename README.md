@@ -31,18 +31,3 @@ flutter run
 ## Screenshot
 ![Screenshot_20250623_205338](https://github.com/user-attachments/assets/49fc8e76-f0b4-4c95-944b-d7eaae4bc4e0)
 
-## duar
-/tanya_daku/
-│
-├── images/
-│ ├── ball1.png
-│ ├── ball2.png
-│ ├── ball3.png
-│ ├── ball4.png
-│ └── ball5.png
-│
-├── lib/
-│ └── main.dart
-│
-├── pubspec.yaml
-└── README.md
