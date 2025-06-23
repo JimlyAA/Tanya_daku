@@ -1,4 +1,4 @@
-# Tanya Daku Apa Saja 
+# Tanya Daku
 
 Aplikasi mobile sederhana berbasis Flutter. Pengguna dapat menekan bola untuk mendapatkan jawaban acak dari aplikasi.
 
